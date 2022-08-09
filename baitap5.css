@@ -1,0 +1,25 @@
+
+#text{
+   text-align: center;
+   background-image: url(https://get.pxhere.com/photo/wind-umbrella-colorful-illustration-umbrellas-cover-sunshades-fashion-accessory-641608.jpg) ;
+   background-size: cover;
+   margin: auto;
+   width: 600px;
+   padding-top:30px;
+   padding-bottom: 20px;
+   
+}
+.card{
+    font-size: 20px;
+    color: white;
+}
+.card-1{
+    color:white;
+    padding-bottom: 30px; 
+}
+.card-2{
+    border: 1px solid red;
+    color: white;
+    background-color: red;
+    padding: 10px; 
+}
